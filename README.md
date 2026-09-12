@@ -1,0 +1,1 @@
+# Coolreader-Full-Version
