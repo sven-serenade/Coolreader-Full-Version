@@ -250,4 +250,4 @@ This repository serves as the official landing page for CoolReader. The software
 **Get the most recent version of CoolReader today!**
 
 ---
-**Last updated:** 2026-10-29 16:37:56 UTC
+**Last updated:** 2026-10-29 21:33:10 UTC
